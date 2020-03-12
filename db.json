@@ -1,4 +1,5 @@
-  {
+[
+{
     "firstname": "Виктор",
     "lastname": "Петров",
     "email": "test@test.com",
@@ -30,3 +31,4 @@
     "birthday_contact": "1998-07-03",
     "company": "Company 4"
   }
+]
